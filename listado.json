@@ -1,0 +1,33 @@
+{
+  "nombre": "Estrenos 2021",
+  "listado": [
+    {
+      "titulo": "Cruella",
+      "genero": "Comedia/Crimen",
+      "duracion": " 2h 14m",
+      "director/a": "Craig Gillespie",
+      "fecha de estreno": "26 de mayo de 2021 "
+    },
+    {
+      "titulo": "La purga por siempre",
+      "genero": "Terror/Acción",
+      "duracion": "1h 44m",
+      "director/a": "Everardo Gout",
+      "fecha de estreno": "30 de junio de 2021"
+    },
+    {
+      "titulo": "Space Jam: una nueva era",
+      "genero": "Animación",
+      "duracion": "2 h",
+      "director/a": "Malcolm D. Lee",
+      "fecha de estreno": "14 de julio de 2021"
+    },
+    {
+      "titulo": "Viejos",
+      "genero": "Suspenso",
+      "duracion": "1h 58m",
+      "director/a": "M. Night Shyamalan",
+      "fecha de estreno": "21 de julio de 2021 "
+    }
+  ]
+}
